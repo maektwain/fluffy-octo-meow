@@ -1,0 +1,15 @@
+{
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "version": "15.10.2.RELEASE.BETA.UPSCALE",
+  "releasedate": "30/Oct/2015"
+=======
+  "version": "15.11.1.RELEASE",
+  "releasedate": "04/Nov/2015"
+>>>>>>> 2726a873eeba61bee03dad08e28594764e43d5d7
+=======
+  "version": "15.11.2.RELEASE",
+  "releasedate": "18/Nov/2015"
+>>>>>>> c028a0dcf527edfc96f9b830543b41a4323ef123
+}
+
